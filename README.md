@@ -1,3 +1,5 @@
+![jharkhand](https://github.com/user-attachments/assets/aed10a71-d9ca-4ce8-a2c8-dc9433ad0814)
+![india](https://github.com/user-attachments/assets/70651d6e-4c49-4320-91b8-b1fe01dd7d33)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,4 +23,22 @@
     
 
 </body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jharkhand</title>
+</head>
+<body>
+    <h1>Jharkhand</h1>
+    <p>It is known land of forest,It <mark>Asia largest steel plant</mark> and <b><i><u>it supply the power across in india.</u></i></b> </p>
+    <p>Largest State for producing coal.In this state many diversity are shown.</p> 
+   
+    <img src="jharkhand.jpg" alt="jhatrkhand" height="570" width="560" border="6" >
+</body>
+
 </html>
